@@ -1,0 +1,16 @@
+# Credenciais
+.env
+
+# Ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados baixados
+data/
+*.csv
+*.zip
+
+# Arquivos temporários
+.ipynb_checkpoints/
+.DS_Store

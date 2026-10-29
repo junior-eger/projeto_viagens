@@ -1,3 +1,11 @@
+-- ETAPA 1: executar somente a instrução abaixo no Query Tool
+-- conectado ao banco postgres, com autocommit habilitado.
+-- Executar apenas se projeto_viagens ainda não existir.
+
+CREATE DATABASE projeto_viagens;
+
+-- ETAPA 2: abrir outro Query Tool conectado a projeto_viagens.
+-- Executar somente os CREATE TABLE abaixo.
 -- Execute conectado ao banco projeto_viagens.
 -- Camada Raw: todas as colunas VARCHAR, sem constraints.
 
